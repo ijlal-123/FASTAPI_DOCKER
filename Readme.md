@@ -30,7 +30,7 @@ This project demonstrates foundational Site Reliability Engineering (SRE) and De
 
 3\. \*\*Automated Testing:\*\* Unit tests run automatically on every commit to ensure code reliability.
 
-4\. \*\*Automated Builds:\*\* GitHub Actions pipeline automatically validates dependencies, runs tests, and builds the Docker image.
+4\. \*Automated Builds:\*\* GitHub Actions pipeline automatically validates dependencies, runs tests, and builds the Docker image.
 
 
 
